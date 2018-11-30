@@ -2,4 +2,8 @@ I'm not a dog but a planet...
 
 Making some changes to this doc.
 
-These are Storm's changesced here.
+These are Storm's changes here.
+
+Adding some new info here about the project. 11/30/2018 11:49:30
+
+Weather is currently overcast, 34 Degrees F. 11/30/2018 11:50:25 
